@@ -30,6 +30,9 @@ tags:
 ## Work Experience
 
 - Former Director of the Research and Development Office, Thailand Institute of Occupational Safety and Health (Public Organization), Ministry of Labor.
+- Innovation development and design expert for Science and Technology Park, Chiang Mai University (CMU STeP).
+- Design expert and medical design consultant for the Faculty of Medicine Ramathibodi Hospital, Mahidol University, and Samitivej Hospital.
+- Former Assistant Professor at the Faculty of Decorative Arts, Silpakorn University, and the Faculty of Information Technology, Thai-Nichi Institute of Technology.
 
 ## Strengths And Style
 
