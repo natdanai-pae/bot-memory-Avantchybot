@@ -25,6 +25,7 @@ tags:
 
 - Bachelor's degree: Faculty of Architecture, King Mongkut's Institute of Technology Ladkrabang, Thailand.
 - Master's degree: Master of Integrated Design, Germany.
+- Doctoral degree: Doctor of Philosophy in Design Science, Kyoto Institute of Technology, Japan.
 
 ## Work Experience
 
