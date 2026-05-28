@@ -39,6 +39,7 @@ tags:
 - Design, communication psychology, creativity.
 - People-centered service, positive leadership, innovation, empathy, adaptability.
 - Personal style: refined classic menswear with Japanese/German minimalist influence.
+- Senior expertise in design, innovation development, contemporary communication, information technology, creative business development, and organizational management across public, private, and educational sectors in Thailand and internationally.
 
 ## Design Preferences
 
