@@ -25,6 +25,10 @@ tags:
 
 - Master's degree: Master of Integrated Design, Germany.
 
+## Work Experience
+
+- Former Director of the Research and Development Office, Thailand Institute of Occupational Safety and Health (Public Organization), Ministry of Labor.
+
 ## Strengths And Style
 
 - Design, communication psychology, creativity.
