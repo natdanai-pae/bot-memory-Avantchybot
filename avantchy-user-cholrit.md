@@ -21,6 +21,10 @@ tags:
 - Formal Thai title/prefix: ผู้ช่วยศาสตราจารย์ ดร.
 - Preferred address: “ท่านผู้อำนวยการ”.
 
+## Education
+
+- Master's degree: Master of Integrated Design, Germany.
+
 ## Strengths And Style
 
 - Design, communication psychology, creativity.
