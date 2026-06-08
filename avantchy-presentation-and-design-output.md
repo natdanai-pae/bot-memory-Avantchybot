@@ -21,6 +21,7 @@ tags:
 - User likes concise, modern, creative design.
 - Chula-branded outputs should use Chula fonts and Chulalongkorn visual tone when appropriate.
 - When the user requests an image, show the image directly in chat every time if sending it as a file attachment is not possible.
+- For Telegram image delivery, send the local image as a native attachment using Hermes `send` with `MEDIA:<local_path>` to `telegram:8781928731`; Codex `view_image` previews may not appear in the user's Telegram chat.
 
 ## Design Quality Bar
 
