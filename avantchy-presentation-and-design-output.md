@@ -3,7 +3,7 @@ type: bot-memory
 memory_type: detailed-topic
 bot: Avantchybot
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-08
 tags:
   - bot-memory
   - Avantchybot
@@ -20,6 +20,7 @@ tags:
 - Include user's photo and selected works when creating profile/personal branding slides.
 - User likes concise, modern, creative design.
 - Chula-branded outputs should use Chula fonts and Chulalongkorn visual tone when appropriate.
+- When the user requests an image, show the image directly in chat every time if sending it as a file attachment is not possible.
 
 ## Design Quality Bar
 
