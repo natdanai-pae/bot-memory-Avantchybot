@@ -21,7 +21,7 @@ tags:
 - User likes concise, modern, creative design.
 - Chula-branded outputs should use Chula fonts and Chulalongkorn visual tone when appropriate.
 - When the user requests an image or file, deliver it as a visible chat attachment every time, not just a local filesystem path or Codex preview.
-- For Telegram image/file delivery, send the local artifact as a native attachment using Hermes `send` with `MEDIA:<local_path>` to `telegram:8781928731`; Codex `view_image` previews may not appear in the user's Telegram chat.
+- For Telegram image/file delivery, always send the local artifact as a native attachment using Hermes `send` with `MEDIA:<local_path>` to `telegram:8781928731`; Codex `view_image`/inline previews may not appear in the user's Telegram chat and should not be treated as delivered.
 
 ## Design Quality Bar
 
