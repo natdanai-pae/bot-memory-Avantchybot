@@ -4,6 +4,7 @@ bot: Avantchybot
 bot_display_name: Avantchy
 created: 2026-05-16
 updated: 2026-05-16
+updated: 2026-06-09
 tags:
   - bot-memory
   - bot/Avantchybot
@@ -24,4 +25,5 @@ Durable memories for this bot live in this folder.
 - [[avantchy-presentation-and-design-output]]
 - [[avantchy-slack-change-management]]
 - [[avantchy-staff-performance-platform]]
+- [[avantchy-trello-biweekly-dashboard]]
 - [[avantchy-user-cholrit]]
