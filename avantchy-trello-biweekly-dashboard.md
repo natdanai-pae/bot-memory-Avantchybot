@@ -42,6 +42,7 @@ For each person, also prepare an individual summary with these headings:
 
 - หัวข้องาน
 - รายละเอียดเบื้องต้น
+- Feedback Evidence / ความเห็นจาก comments
 - ข้อเสนอแนะ
 - ปัญหา
 - แนวทางแก้ปัญหา
@@ -49,6 +50,22 @@ For each person, also prepare an individual summary with these headings:
 - สรุปผลประเมิน
 
 This should be suitable for a director reviewing work progress and coaching staff every two weeks.
+
+## Trello Comments And Feedback
+
+User will provide feedback on almost every completed work item in Trello comments, especially cards in Done / Done& Feedback.
+
+For future biweekly reports:
+
+- Pull card comments/actions in addition to card titles, labels, due dates, lists, and members.
+- Use comments as evidence for work quality, revision needs, director feedback, praise, concerns, and next-step instructions.
+- In individual summaries, include a concise "Feedback Evidence" section:
+  - Positive feedback / strengths observed
+  - Revision or improvement requested
+  - Decisions or approvals given
+  - Follow-up actions from comments
+- Do not treat Done as fully successful without checking comments; Done cards may still contain feedback or requested improvements.
+- Clearly distinguish Trello metadata from director comments when explaining the assessment.
 
 ## Current GAA Trello Board
 
