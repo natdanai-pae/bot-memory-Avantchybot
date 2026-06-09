@@ -36,6 +36,20 @@ When asked to evaluate/follow up Trello work, use the dashboard format developed
   - งานไม่มี owner
   - งาน due soon / ต้องไล่ตามทันที
 
+## Individual Evaluation Format
+
+For each person, also prepare an individual summary with these headings:
+
+- หัวข้องาน
+- รายละเอียดเบื้องต้น
+- ข้อเสนอแนะ
+- ปัญหา
+- แนวทางแก้ปัญหา
+- ภาพรวม
+- สรุปผลประเมิน
+
+This should be suitable for a director reviewing work progress and coaching staff every two weeks.
+
 ## Current GAA Trello Board
 
 - Public board link: `https://trello.com/b/ovFocNPm/gaa`
