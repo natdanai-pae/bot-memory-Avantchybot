@@ -68,3 +68,11 @@ AI/tool usage should be excluded from performance scoring for now. It may be tra
 - Use privacy-safe names such as Growth Track, Performance Tier, Evidence Level, Readiness Level, or Review Status rather than Salary Band.
 - Compensation should be tied to reviewed readiness/eligibility, not automatic raw scores.
 - Suggested flow: daily evidence -> AI/Lead interpretation -> individual trend -> coaching -> 3-month verified trend -> top-up/salary review support.
+
+## Continuous Learning And Calibration
+
+- As the system is used over time, use the accumulating Trello/evidence/comment database to improve evaluation accuracy, clarity, and consistency.
+- Do not judge people from a single snapshot. Prefer longitudinal patterns across biweekly, monthly, and 3-month review windows.
+- Each round should refine calibration: what counts as strong evidence, clear output, meaningful impact, real growth, and reliable ownership.
+- The assistant should learn from repeated director feedback, Trello comments, corrections, and actual outcomes to make future summaries more precise and fair.
+- Use historical data to identify sustained improvement, hidden contributors, recurring blockers, workload imbalance, and false negatives/false positives in prior assessments.
