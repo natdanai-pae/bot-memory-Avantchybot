@@ -77,3 +77,10 @@ AI/tool usage should be excluded from performance scoring for now. It may be tra
 - The assistant should learn from repeated director feedback, Trello comments, corrections, and actual outcomes to make future summaries more precise and fair.
 - Use historical data to identify sustained improvement, hidden contributors, recurring blockers, workload imbalance, and false negatives/false positives in prior assessments.
 - Proactively present useful new insights to the user whenever current or future data suggests a better evaluation method, clearer rubric, missing metric, better dashboard view, or fairer coaching approach. Do not wait for the user to ask if the insight is materially useful.
+
+## Trello Comment Evidence Layer
+
+- Treat the user's Trello card comments as a core evidence layer, not secondary notes.
+- Comments can show feedback, opinions, decisions, approvals, revision requests, follow-up instructions, blocker clarification, handoff context, and continuity across related work.
+- Use comment history to assess feedback responsiveness, whether work improved after feedback, recurring issues, sustained ownership, and whether a completed card still needs revision.
+- When summarizing performance, distinguish clearly between card metadata, attached evidence, staff updates, and director comments.
