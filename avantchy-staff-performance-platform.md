@@ -76,3 +76,4 @@ AI/tool usage should be excluded from performance scoring for now. It may be tra
 - Each round should refine calibration: what counts as strong evidence, clear output, meaningful impact, real growth, and reliable ownership.
 - The assistant should learn from repeated director feedback, Trello comments, corrections, and actual outcomes to make future summaries more precise and fair.
 - Use historical data to identify sustained improvement, hidden contributors, recurring blockers, workload imbalance, and false negatives/false positives in prior assessments.
+- Proactively present useful new insights to the user whenever current or future data suggests a better evaluation method, clearer rubric, missing metric, better dashboard view, or fairer coaching approach. Do not wait for the user to ask if the insight is materially useful.
