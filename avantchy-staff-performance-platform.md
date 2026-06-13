@@ -85,3 +85,51 @@ AI/tool usage should be excluded from performance scoring for now. It may be tra
 - Comments can show feedback, opinions, decisions, approvals, revision requests, follow-up instructions, blocker clarification, handoff context, and continuity across related work.
 - Use comment history to assess feedback responsiveness, whether work improved after feedback, recurring issues, sustained ownership, and whether a completed card still needs revision.
 - When summarizing performance, distinguish clearly between card metadata, attached evidence, staff updates, and director comments.
+
+## Finalized GAA/OIA Evaluation Approach From 2026-06-13
+
+Use this as the default framework for future GAA/OIA team evaluation.
+
+Core purpose:
+
+- Make real work, responsibility, development, and hidden contributions visible.
+- Support coaching and fairer assignment/development decisions.
+- Avoid shame culture, public raw-score comparison, and single-snapshot judgment.
+- Use longitudinal evidence from Trello cards, comments, attachments, status, due dates, and director feedback.
+
+Primary dimensions:
+
+1. Evidence Completeness
+2. Output Clarity
+3. Work Impact
+4. Personal Growth Trend
+5. Ownership / Reliability
+
+Excluded for now:
+
+- AI/tool usage must not be used as an evaluation dimension.
+- Leave, holidays, and OT should be context for team operation health, not direct personal performance scoring.
+
+Required data sources:
+
+- Trello card title, list/status, owner/member, due date, labels, attachments/evidence, checklist/status history.
+- Trello comments/actions, especially director comments and feedback.
+- Feedback trail: approval, revision request, decision, blocker clarification, handoff context, follow-up instruction, and continuity signal.
+
+Dashboard levels to produce when useful:
+
+1. Executive/team dashboard: team overview, readiness distribution, hidden contributors, risks/support needed, strategic recommendations.
+2. Internal individual coaching dashboard: deeper individual view for director/lead, including evidence, work examples, feedback evidence, gap/coaching focus, action plan.
+3. Employee-facing individual dashboard: softer language, no raw score comparison, focused on strengths, development areas, and next 2-week action plan.
+
+Employee-facing language:
+
+- Use development-oriented phrasing.
+- Avoid public ranking, raw peer scores, and labels that imply shame.
+- Show the person's own level/status, trend, strengths, development focus, and practical next actions.
+
+Future evaluation behavior:
+
+- Always check Trello comments before concluding whether a Done card is truly completed or still needs revision.
+- Identify hidden contributors, recurring blockers, workload imbalance, repeated evidence gaps, and improved responsiveness after feedback.
+- Proactively suggest rubric/dashboard improvements when new patterns in the data would make the assessment more accurate, fair, or useful.
