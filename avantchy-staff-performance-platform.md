@@ -80,6 +80,7 @@ AI/tool usage should be excluded from performance scoring for now. It may be tra
 
 ## Trello Comment Evidence Layer
 
+- Trello card comments must be considered in performance evaluation whenever available.
 - Treat the user's Trello card comments as a core evidence layer, not secondary notes.
 - Comments can show feedback, opinions, decisions, approvals, revision requests, follow-up instructions, blocker clarification, handoff context, and continuity across related work.
 - Use comment history to assess feedback responsiveness, whether work improved after feedback, recurring issues, sustained ownership, and whether a completed card still needs revision.

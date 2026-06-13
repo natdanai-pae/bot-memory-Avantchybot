@@ -59,6 +59,7 @@ User also uses Trello comments regularly as an important feedback and continuity
 
 For future biweekly reports:
 
+- Trello card comments are a required input for evaluation whenever available; do not assess cards only from list/status/due date/card title.
 - Pull card comments/actions in addition to card titles, labels, due dates, lists, and members.
 - Use comments as evidence for work quality, revision needs, director feedback, praise, concerns, and next-step instructions.
 - Treat comments as high-value evidence for continuity, decision history, handoff context, feedback responsiveness, repeated issues, and whether work actually improved after feedback.
