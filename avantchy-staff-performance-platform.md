@@ -39,14 +39,15 @@ User asked to create a platform to upload employee work and connect it to Trello
 
 ## Recommended Review Dimensions
 
-Use six dimensions:
+Use five dimensions for now:
 
 1. Evidence Completeness - whether supporting evidence exists and is accessible.
 2. Output Clarity - whether the actual completed work is understandable and verifiable.
 3. Work Impact - whether the work affected project, client, company, revenue, cost, risk, or delivery.
 4. Personal Growth Trend - whether the person improves relative to their own baseline.
 5. Ownership / Reliability - whether they follow through, handle blockers, and hand off clearly.
-6. AI Leverage Quality - whether AI use improves real output, not just the wording of the report.
+
+AI/tool usage should be excluded from performance scoring for now. It may be tracked as optional context for training, workflow improvement, or future capability development, but should not affect review level, readiness level, coaching status, or compensation decisions at this stage.
 
 ## Operating Rules
 
