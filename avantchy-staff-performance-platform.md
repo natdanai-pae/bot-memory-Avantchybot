@@ -49,7 +49,7 @@ Use five dimensions for now:
 
 AI/tool usage should be excluded from performance scoring for now. It may be tracked as optional context for training, workflow improvement, or future capability development, but should not affect review level, readiness level, coaching status, or compensation decisions at this stage.
 
-When presenting individual performance summaries as infographics, include a radar/spider chart when appropriate to show the balance across these dimensions at a glance. Treat it as a visual aid for multi-dimensional coaching, not as a harsh ranking device.
+When presenting individual performance summaries as infographics, include a 5-axis radar/spider chart when appropriate to show the balance across these dimensions at a glance. The five axes should correspond to the five review dimensions: Evidence Completeness, Output Clarity, Work Impact, Personal Growth Trend, and Ownership / Reliability. Treat it as a visual aid for multi-dimensional coaching, not as a harsh ranking device.
 
 ## Operating Rules
 
