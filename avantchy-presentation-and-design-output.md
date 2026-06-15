@@ -27,6 +27,9 @@ tags:
 ## Design Quality Bar
 
 - User expects graphic design to meet a professional design standard, not only clean formatting.
+- For infographic work, the quality of the summarized source information must meet the same standard as the visual design. The user explicitly emphasized on 2026-06-15 that the reference infographic is the required benchmark for both content summarization and infographic presentation quality.
+- Before designing an infographic, distill information into a clear executive structure: key dates, requirements, criteria, process steps, important notes, risks/limits, decisions, and action points where relevant. The summary should be concise, complete enough for decision-making, and arranged so each content block has a clear purpose.
+- Avoid dumping raw text into a graphic. Rewrite source material into compact, official, reader-friendly Thai or English as appropriate, with hierarchy, grouped ideas, and callouts that support fast understanding.
 - For user-provided style references, study and reproduce the design language carefully before producing slides: symbols/icons, line weight, color tone, size hierarchy, spacing balance, and composition rhythm.
 - Do not over-interpret "Chula tone" as generic bright pink/white. When a reference is provided, extract the actual palette and line/shape language from the reference and apply it consistently.
 - Infographics should feel designed, not generic: use balanced white space, proportionate iconography, controlled stroke weights, and restrained color blocks.
