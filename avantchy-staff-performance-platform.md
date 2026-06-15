@@ -3,7 +3,7 @@ type: bot-memory
 memory_type: detailed-topic
 bot: Avantchybot
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-15
 tags:
   - bot-memory
   - Avantchybot
@@ -48,6 +48,8 @@ Use five dimensions for now:
 5. Ownership / Reliability - whether they follow through, handle blockers, and hand off clearly.
 
 AI/tool usage should be excluded from performance scoring for now. It may be tracked as optional context for training, workflow improvement, or future capability development, but should not affect review level, readiness level, coaching status, or compensation decisions at this stage.
+
+When presenting individual performance summaries as infographics, include a radar/spider chart when appropriate to show the balance across these dimensions at a glance. Treat it as a visual aid for multi-dimensional coaching, not as a harsh ranking device.
 
 ## Operating Rules
 
