@@ -3,7 +3,7 @@ type: bot-memory
 memory_type: detailed-topic
 bot: Avantchybot
 created: 2026-05-16
-updated: 2026-06-08
+updated: 2026-06-15
 tags:
   - bot-memory
   - Avantchybot
@@ -31,6 +31,8 @@ tags:
 - Do not over-interpret "Chula tone" as generic bright pink/white. When a reference is provided, extract the actual palette and line/shape language from the reference and apply it consistently.
 - Infographics should feel designed, not generic: use balanced white space, proportionate iconography, controlled stroke weights, and restrained color blocks.
 - User provided flat-design infographic references on 2026-06-05: one management dashboard with top-down meeting table, percent callouts, charts, icons, and gray/blue/yellow/orange accents; one process/teamwork infographic with yellow background, start-to-success flow, dotted arrows, gears, smart ideas, research, strategy, design, communication, and rocket/success symbols. Treat these as preferred references for clear process/management infographics.
+- User explicitly identified the 2026-06-15 outbound student exchange procedure infographic as the perfect style reference for his personal infographic taste. Reference image: `assets/2026-06-15-perfect-infographic-style-reference.jpg`.
+- For this gold-standard infographic style, preserve these traits: wide landscape dashboard layout; generous white space; calm grid alignment; thin rounded rectangular section borders; controlled pink/magenta accent blocks on white; clean modern sans-serif typography; clear hierarchy with large section numbers and compact text; line-style pictograms; bottom process cards with icon-first reading flow; strong balance between information density and breathing room; minimal decoration; official but accessible tone.
 - If uncertain about the intended style, ask for or inspect the reference again before finalizing.
 
 ## Image Persona
