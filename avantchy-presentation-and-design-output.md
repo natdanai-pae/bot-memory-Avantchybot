@@ -60,6 +60,7 @@ tags:
 - On 2026-06-18, the user rated the test GAA Evaluation Summary that combined the official OIA/GN logo with the assessment-ready 5D spider chart as "พึงพอใจในระดับที่ใช้ได้" (satisfactory/usable). Treat this as an acceptable working baseline for future GAA evaluation infographics, while continuing to refine design quality toward the gold-standard reference.
 - The user provided an "Individual Evidence & Growth Review Dashboard" reference on 2026-06-18. Use its information architecture together with the assessment-ready spider chart for future individual/team evaluation summaries: Executive Snapshot, 5-Dimension Radar with numeric axis values, Evidence Interpretation, Executive Reading, Important Notes, and a bottom 5-step workflow. Reference image: `assets/2026-06-18-individual-evidence-growth-review-dashboard-reference.jpg`.
 - The user specifically asked on 2026-06-18 to use the rose/pink tone from the "Individual Evidence & Growth Review Dashboard" reference for future related evaluation dashboards. Prefer this softer rose palette over bright neon magenta when making GAA/OIA evidence/growth evaluation infographics.
+- For evaluation dashboards, the 5-Dimension Radar block should include readable per-axis detail, not only the spider shape. Each axis should show the score, a compact bar/target cue, the evidence basis, and a short assessment/coaching interpretation so the user can read the evaluation decision directly from the radar panel.
 
 ## Image Persona
 
