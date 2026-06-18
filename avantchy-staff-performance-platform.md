@@ -145,6 +145,7 @@ Assessment spider chart usage:
 - In the radar panel itself, include per-axis detail for easier director reading: current score, previous score when available, evidence basis, interpretation/gap, and a next coaching cue. Do not show only the chart shape when the dashboard is meant to support verbal evaluation.
 - Always keep the overall Current Readiness score visible in evaluation dashboards, and add a Previous Round line/shape in the radar when prior-round data exists so the director can read progress or regression at a glance.
 - The accepted baseline from the 2026-06-18 GAA dashboard revision is: one-page evidence/growth dashboard with Executive Snapshot, detailed 5D radar panel, Evidence Interpretation, Executive Reading, Important Notes, and bottom workflow. The detailed radar panel should include Current Readiness, Target line, Previous line, Evidence Confidence cue, current and previous scores per axis, and concise evidence/coaching notes.
+- Use this approach for the next evaluation-summary work by default. The layout can change to fit the available evidence, number of staff, team vs individual scope, and key message, but the evaluation framework and interpretability should remain consistent.
 - Reference image for the preferred assessment chart model: `assets/2026-06-18-assessment-spider-chart-model.png`.
 
 Individual Evidence & Growth Review dashboard structure:
