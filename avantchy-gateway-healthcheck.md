@@ -18,7 +18,7 @@ Avantchybot has a local launchd health check for the Hermes gateway:
 - Script: `/Users/Maripae/.hermes/profiles/codexbot/bin/hermes-codexbot-healthcheck`
 - Health LaunchAgent: `/Users/Maripae/Library/LaunchAgents/ai.hermes.gateway-codexbot-healthcheck.plist`
 - Heartbeat LaunchAgent: `/Users/Maripae/Library/LaunchAgents/ai.hermes.gateway-codexbot-heartbeat.plist`
-- Health interval: every 300 seconds.
+- Health schedule: daily at 09:05 local time.
 - Heartbeat: daily at 09:00 local time.
 - Alert target: Telegram DM `8781928731` (Cholrit / Avantchybot Home).
 - Log: `/Users/Maripae/.hermes/profiles/codexbot/logs/codexbot-healthcheck.log`
