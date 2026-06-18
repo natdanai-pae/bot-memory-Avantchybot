@@ -57,6 +57,7 @@ tags:
 - Additional reinforced reference image from 2026-06-18: `assets/2026-06-18-perfect-infographic-style-reference-reinforced.jpg`.
 - For future evaluation presentations, use the assessment-ready spider chart model together with the user's evaluation summary. The model should show Actual/Current, Expected Standard/Target, Previous Round, Evidence Confidence, and a 1-5 behavior-anchored scale so the visual supports coaching and evidence-based interpretation, not ranking. Reference image: `assets/2026-06-18-assessment-spider-chart-model.png`.
 - The user provided the official Office of International Affairs and Global Network logo on 2026-06-18 for use in future work. Keep the original and working crops: `assets/oia-global-network-logo-original-2026-06-18.jpg`, `assets/oia-global-network-logo-cropped-2026-06-18.jpg`, and `assets/oia-global-network-logo-tight-2026-06-18.jpg`. Use the tight crop for infographic headers unless a different layout needs more whitespace.
+- On 2026-06-18, the user rated the test GAA Evaluation Summary that combined the official OIA/GN logo with the assessment-ready 5D spider chart as "พึงพอใจในระดับที่ใช้ได้" (satisfactory/usable). Treat this as an acceptable working baseline for future GAA evaluation infographics, while continuing to refine design quality toward the gold-standard reference.
 
 ## Image Persona
 
