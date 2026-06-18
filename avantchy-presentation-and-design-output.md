@@ -55,6 +55,7 @@ tags:
 - The perfect infographic reference is a quality and design-language standard, not a fixed box-by-box template. Future layouts may adapt to data type, data volume, audience, and key message, but must preserve the reference-level quality in hierarchy, spacing, typography, pictogram style, color discipline, and overall balance.
 - The first mock individual performance infographic sample was only "พอใช้ได้" and must not be used as a benchmark. Future work should raise the standard in executive synthesis, dense-but-not-cluttered information structure, Thai typography, spacing, layout balance, and refinement close to the gold-standard reference.
 - Additional reinforced reference image from 2026-06-18: `assets/2026-06-18-perfect-infographic-style-reference-reinforced.jpg`.
+- For future evaluation presentations, use the assessment-ready spider chart model together with the user's evaluation summary. The model should show Actual/Current, Expected Standard/Target, Previous Round, Evidence Confidence, and a 1-5 behavior-anchored scale so the visual supports coaching and evidence-based interpretation, not ranking. Reference image: `assets/2026-06-18-assessment-spider-chart-model.png`.
 
 ## Image Persona
 
