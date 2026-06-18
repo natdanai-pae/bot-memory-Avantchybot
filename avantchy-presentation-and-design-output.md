@@ -62,6 +62,7 @@ tags:
 - The user specifically asked on 2026-06-18 to use the rose/pink tone from the "Individual Evidence & Growth Review Dashboard" reference for future related evaluation dashboards. Prefer this softer rose palette over bright neon magenta when making GAA/OIA evidence/growth evaluation infographics.
 - For evaluation dashboards, the 5-Dimension Radar block should include readable per-axis detail, not only the spider shape. Each axis should show the current score, previous score when available, a compact bar/target cue, the evidence basis, and a short assessment/coaching interpretation so the user can read the evaluation decision directly from the radar panel.
 - Do not omit the overall Current Readiness score from evaluation radar panels. Show it clearly near the radar title or executive summary, and include a Previous Round line/shape in the radar when trend data exists.
+- On 2026-06-18, after the GAA evidence/growth dashboard was revised to include Current Readiness, Target, Previous, Evidence Confidence, per-axis current/previous scores, compact bars, evidence basis, and coaching interpretation in the radar block, the user praised the result as "เยี่ยมยอด" and explicitly asked to remember it. Treat this latest GAA radar-panel format as the working baseline for future GAA/OIA evaluation infographics.
 
 ## Image Persona
 
