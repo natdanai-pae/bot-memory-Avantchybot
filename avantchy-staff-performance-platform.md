@@ -143,3 +143,13 @@ Assessment spider chart usage:
 - Use the spider chart to compare Actual/Current profile with Expected Standard/Target, show Previous Round when available, and indicate Evidence Confidence from Trello cards, attachments, due dates, and comments.
 - Pair the chart with a 1-5 behavior-anchored scale and a concise coaching interpretation. Treat the chart as a coaching and evidence-interpretation tool, not a public ranking or formal HR scorecard.
 - Reference image for the preferred assessment chart model: `assets/2026-06-18-assessment-spider-chart-model.png`.
+
+Individual Evidence & Growth Review dashboard structure:
+
+- For individual evaluation presentations, combine the written assessment with the information structure from the user's 2026-06-18 reference dashboard: Executive Snapshot, 5-Dimension Radar, Evidence Interpretation, Executive Reading, Important Notes, and a bottom workflow.
+- Executive Snapshot should include the person's role/work context, key evidence sources, overall readiness/growth track, and compact metrics such as number of evidence items, evidence confidence percentage, and review window.
+- Evidence Interpretation should classify evidence as: strong evidence, missing/weak evidence, positive signals after feedback, and risk signals.
+- Executive Reading should separate Strength, Gap, Support, and Next Review so the director can explain the assessment verbally and coach the staff member.
+- Important Notes should explicitly state that the dashboard is a mock/review aid, uses radar for development not ranking, requires reading Trello comments/director feedback before concluding Done status, and excludes AI/tool usage from scoring for now.
+- Bottom workflow should follow: Collect Evidence, Read Comments, Plot 5 Axes, Read Trend, Coach Next.
+- Reference image: `assets/2026-06-18-individual-evidence-growth-review-dashboard-reference.jpg`.
