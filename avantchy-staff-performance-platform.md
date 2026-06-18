@@ -135,3 +135,11 @@ Future evaluation behavior:
 - Always check Trello comments before concluding whether a Done card is truly completed or still needs revision.
 - Identify hidden contributors, recurring blockers, workload imbalance, repeated evidence gaps, and improved responsiveness after feedback.
 - Proactively suggest rubric/dashboard improvements when new patterns in the data would make the assessment more accurate, fair, or useful.
+
+Assessment spider chart usage:
+
+- For future evaluation summaries prepared for the user, include or propose the assessment-ready 5D spider chart as a companion visual to the written evaluation summary.
+- The chart should use the five evaluation dimensions: Evidence Completeness, Output Clarity, Work Impact, Personal Growth Trend, and Ownership / Reliability.
+- Use the spider chart to compare Actual/Current profile with Expected Standard/Target, show Previous Round when available, and indicate Evidence Confidence from Trello cards, attachments, due dates, and comments.
+- Pair the chart with a 1-5 behavior-anchored scale and a concise coaching interpretation. Treat the chart as a coaching and evidence-interpretation tool, not a public ranking or formal HR scorecard.
+- Reference image for the preferred assessment chart model: `assets/2026-06-18-assessment-spider-chart-model.png`.
