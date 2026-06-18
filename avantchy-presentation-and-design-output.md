@@ -64,6 +64,7 @@ tags:
 - Do not omit the overall Current Readiness score from evaluation radar panels. Show it clearly near the radar title or executive summary, and include a Previous Round line/shape in the radar when trend data exists.
 - On 2026-06-18, after the GAA evidence/growth dashboard was revised to include Current Readiness, Target, Previous, Evidence Confidence, per-axis current/previous scores, compact bars, evidence basis, and coaching interpretation in the radar block, the user praised the result as "เยี่ยมยอด" and explicitly asked to remember it. Treat this latest GAA radar-panel format as the working baseline for future GAA/OIA evaluation infographics.
 - This GAA/OIA evaluation infographic approach is important and should be used for the next evaluation summaries. The layout may be adapted flexibly to the real data, data volume, audience, and message, but the core evaluation logic and readability requirements must remain: 5D radar, Current Readiness, Target, Previous when available, Evidence Confidence, per-axis scores/details, executive interpretation, and coaching-oriented notes.
+- Priority template: for GAA performance evaluation work, use this latest GAA/OIA evidence-and-growth dashboard approach as the first-choice template. Start from this structure before considering alternatives, then adapt the layout only as needed for the actual evidence, number of people, review purpose, and executive message.
 
 ## Image Persona
 
