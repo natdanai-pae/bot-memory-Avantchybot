@@ -142,6 +142,7 @@ Assessment spider chart usage:
 - The chart should use the five evaluation dimensions: Evidence Completeness, Output Clarity, Work Impact, Personal Growth Trend, and Ownership / Reliability.
 - Use the spider chart to compare Actual/Current profile with Expected Standard/Target, show Previous Round when available, and indicate Evidence Confidence from Trello cards, attachments, due dates, and comments.
 - Pair the chart with a 1-5 behavior-anchored scale and a concise coaching interpretation. Treat the chart as a coaching and evidence-interpretation tool, not a public ranking or formal HR scorecard.
+- In the radar panel itself, include per-axis detail for easier director reading: score, evidence basis, interpretation/gap, and a next coaching cue. Do not show only the chart shape when the dashboard is meant to support verbal evaluation.
 - Reference image for the preferred assessment chart model: `assets/2026-06-18-assessment-spider-chart-model.png`.
 
 Individual Evidence & Growth Review dashboard structure:
