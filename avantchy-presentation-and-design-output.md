@@ -19,6 +19,7 @@ tags:
 - Slides should be concise, not over 5 pages when requested.
 - Include user's photo and selected works when creating profile/personal branding slides.
 - User likes concise, modern, creative design.
+- As of 2026-06-19, use "OIA/GAA" as the preferred organizational shorthand in future outputs instead of "OIA/GN".
 - Chula-branded outputs should use Chula fonts and Chulalongkorn visual tone when appropriate.
 - When the user requests an image or file, deliver it as a visible chat attachment every time, not just a local filesystem path or Codex preview.
 - For Telegram image/file delivery, always send the local artifact as a native attachment using Hermes `send` with `MEDIA:<local_path>` to `telegram:8781928731`; Codex `view_image`/inline previews may not appear in the user's Telegram chat and should not be treated as delivered.
@@ -44,7 +45,7 @@ tags:
 
 ## Reinforced Infographic Rules From 2026-06-18
 
-- For performance/evaluation infographics, especially individual staff evaluation and GAA/OIA performance dashboards, the 5-axis spider/radar chart is a core component, not an optional decoration, whenever the data supports evaluation dimensions.
+- For performance/evaluation infographics, especially individual staff evaluation and OIA/GAA performance dashboards, the 5-axis spider/radar chart is a core component, not an optional decoration, whenever the data supports evaluation dimensions.
 - The five standard radar dimensions are:
   1. Evidence Completeness
   2. Output Clarity
@@ -57,14 +58,14 @@ tags:
 - Additional reinforced reference image from 2026-06-18: `assets/2026-06-18-perfect-infographic-style-reference-reinforced.jpg`.
 - For future evaluation presentations, use the assessment-ready spider chart model together with the user's evaluation summary. The model should show Actual/Current, Expected Standard/Target, Previous Round, Evidence Confidence, and a 1-5 behavior-anchored scale so the visual supports coaching and evidence-based interpretation, not ranking. Reference image: `assets/2026-06-18-assessment-spider-chart-model.png`.
 - The user provided the official Office of International Affairs and Global Network logo on 2026-06-18 for use in future work. Keep the original and working crops: `assets/oia-global-network-logo-original-2026-06-18.jpg`, `assets/oia-global-network-logo-cropped-2026-06-18.jpg`, and `assets/oia-global-network-logo-tight-2026-06-18.jpg`. Use the tight crop for infographic headers unless a different layout needs more whitespace.
-- On 2026-06-18, the user rated the test GAA Evaluation Summary that combined the official OIA/GN logo with the assessment-ready 5D spider chart as "พึงพอใจในระดับที่ใช้ได้" (satisfactory/usable). Treat this as an acceptable working baseline for future GAA evaluation infographics, while continuing to refine design quality toward the gold-standard reference.
+- On 2026-06-18, the user rated the test GAA Evaluation Summary that combined the official OIA/GAA logo treatment with the assessment-ready 5D spider chart as "พึงพอใจในระดับที่ใช้ได้" (satisfactory/usable). Treat this as an acceptable working baseline for future GAA evaluation infographics, while continuing to refine design quality toward the gold-standard reference.
 - The user provided an "Individual Evidence & Growth Review Dashboard" reference on 2026-06-18. Use its information architecture together with the assessment-ready spider chart for future individual/team evaluation summaries: Executive Snapshot, 5-Dimension Radar with numeric axis values, Evidence Interpretation, Executive Reading, Important Notes, and a bottom 5-step workflow. Reference image: `assets/2026-06-18-individual-evidence-growth-review-dashboard-reference.jpg`.
-- The user specifically asked on 2026-06-18 to use the rose/pink tone from the "Individual Evidence & Growth Review Dashboard" reference for future related evaluation dashboards. Prefer this softer rose palette over bright neon magenta when making GAA/OIA evidence/growth evaluation infographics.
+- The user specifically asked on 2026-06-18 to use the rose/pink tone from the "Individual Evidence & Growth Review Dashboard" reference for future related evaluation dashboards. Prefer this softer rose palette over bright neon magenta when making OIA/GAA evidence/growth evaluation infographics.
 - For evaluation dashboards, the 5-Dimension Radar block should include readable per-axis detail, not only the spider shape. Each axis should show the current score, previous score when available, a compact bar/target cue, the evidence basis, and a short assessment/coaching interpretation so the user can read the evaluation decision directly from the radar panel.
 - Do not omit the overall Current Readiness score from evaluation radar panels. Show it clearly near the radar title or executive summary, and include a Previous Round line/shape in the radar when trend data exists.
-- On 2026-06-18, after the GAA evidence/growth dashboard was revised to include Current Readiness, Target, Previous, Evidence Confidence, per-axis current/previous scores, compact bars, evidence basis, and coaching interpretation in the radar block, the user praised the result as "เยี่ยมยอด" and explicitly asked to remember it. Treat this latest GAA radar-panel format as the working baseline for future GAA/OIA evaluation infographics.
-- This GAA/OIA evaluation infographic approach is important and should be used for the next evaluation summaries. The layout may be adapted flexibly to the real data, data volume, audience, and message, but the core evaluation logic and readability requirements must remain: 5D radar, Current Readiness, Target, Previous when available, Evidence Confidence, per-axis scores/details, executive interpretation, and coaching-oriented notes.
-- Priority template: for GAA performance evaluation work, use this latest GAA/OIA evidence-and-growth dashboard approach as the first-choice template. Start from this structure before considering alternatives, then adapt the layout only as needed for the actual evidence, number of people, review purpose, and executive message.
+- On 2026-06-18, after the GAA evidence/growth dashboard was revised to include Current Readiness, Target, Previous, Evidence Confidence, per-axis current/previous scores, compact bars, evidence basis, and coaching interpretation in the radar block, the user praised the result as "เยี่ยมยอด" and explicitly asked to remember it. Treat this latest GAA radar-panel format as the working baseline for future OIA/GAA evaluation infographics.
+- This OIA/GAA evaluation infographic approach is important and should be used for the next evaluation summaries. The layout may be adapted flexibly to the real data, data volume, audience, and message, but the core evaluation logic and readability requirements must remain: 5D radar, Current Readiness, Target, Previous when available, Evidence Confidence, per-axis scores/details, executive interpretation, and coaching-oriented notes.
+- Priority template: for GAA performance evaluation work, use this latest OIA/GAA evidence-and-growth dashboard approach as the first-choice template. Start from this structure before considering alternatives, then adapt the layout only as needed for the actual evidence, number of people, review purpose, and executive message.
 
 ## Image Persona
 

@@ -17,7 +17,7 @@ tags:
 - Thai name appears as ชลฤทธิ์ เหลืองจินดา.
 - English transliteration found online as Cholrit Luangjinda.
 - User is Asst. Prof. Dr. Cholrit Luangjinda.
-- Role: Director of International Academic Affairs Division, Chula OIA/GN, P5.
+- Role: Director of International Academic Affairs Division, Chula OIA/GAA, P5.
 - Formal Thai title/prefix: ผู้ช่วยศาสตราจารย์ ดร.
 - Preferred address: “ท่านผู้อำนวยการ”.
 

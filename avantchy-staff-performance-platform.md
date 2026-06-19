@@ -88,9 +88,9 @@ When presenting individual performance summaries as infographics, include a 5-ax
 - Use comment history to assess feedback responsiveness, whether work improved after feedback, recurring issues, sustained ownership, and whether a completed card still needs revision.
 - When summarizing performance, distinguish clearly between card metadata, attached evidence, staff updates, and director comments.
 
-## Finalized GAA/OIA Evaluation Approach From 2026-06-13
+## Finalized OIA/GAA Evaluation Approach From 2026-06-13
 
-Use this as the default framework for future GAA/OIA team evaluation.
+Use this as the default framework for future OIA/GAA team evaluation.
 
 Core purpose:
 
