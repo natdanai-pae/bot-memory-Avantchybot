@@ -17,6 +17,7 @@ Durable memories for this bot live in this folder.
 
 - [[2026-05-16-bot-memory-folder-policy]]
 - [[2026-05-16-user-prefers-obsidian-as-bot-memory-source]]
+- [[2026-06-19-use-oia-gaa-shorthand]]
 - [[avantchy-comfyui-local-setup]]
 - [[avantchy-gateway-healthcheck]]
 - [[avantchy-health-alcohol-fatty-liver]]
