@@ -40,8 +40,52 @@ tags:
 - User explicitly identified the 2026-06-15 outbound student exchange procedure infographic as the perfect style reference for his personal infographic taste. Reference image: `assets/2026-06-15-perfect-infographic-style-reference.jpg`.
 - For this gold-standard infographic style, preserve these traits: wide landscape dashboard layout; generous white space; calm grid alignment; thin rounded rectangular section borders; controlled pink/magenta accent blocks on white; clean modern sans-serif typography; clear hierarchy with large section numbers and compact text; line-style pictograms; bottom process cards with icon-first reading flow; strong balance between information density and breathing room; minimal decoration; official but accessible tone.
 - The gold-standard reference should guide quality, hierarchy, spacing, typography, icon language, color discipline, and overall balance, but it is not a fixed box-by-box template. The layout structure may and should be adapted to the content type, message, audience, and amount of information. Do not force every future infographic into the same framed-cell grid if another composition communicates better while preserving the reference's quality level.
+- On 2026-06-22, the user reinforced that the OIA process infographic style is a "สมบูรณ์แบบ" preferred style for future summaries that include infographics. Treat these two added references as high-priority style baselines: `assets/2026-06-22-perfect-oia-process-infographic-wide.jpg` and `assets/2026-06-22-perfect-oia-process-infographic-vertical.jpg`.
 - On 2026-06-15, the first mock individual performance infographic sample was rated by the user as only "พอใช้ได้" (acceptable/passable), not yet the desired standard. Do not treat that sample as a quality benchmark. Future versions must improve visual refinement, spacing discipline, Thai typography, content sharpness, executive synthesis, and resemblance to the gold-standard reference.
 - If uncertain about the intended style, ask for or inspect the reference again before finalizing.
+
+## Perfect OIA Infographic Style Reinforcement From 2026-06-22
+
+The user emphasized that this is the style they like and consider complete/perfect for future infographic-based summaries. Apply this style direction proactively to later infographic work when appropriate, especially OIA/GAA process summaries, evaluation summaries, executive dashboards, timelines, criteria summaries, and procedural reports.
+
+Reference assets:
+
+- `assets/2026-06-22-perfect-oia-process-infographic-wide.jpg`
+- `assets/2026-06-22-perfect-oia-process-infographic-vertical.jpg`
+
+Design language:
+
+- Use a clean Chula/OIA process-infographic look: white base, strong pink/magenta header or accents, thin magenta borders, and line-based pictograms.
+- Keep the overall look official, modern, precise, and easy to scan. It should feel like an intentionally designed institutional infographic, not a decorated report page.
+- Prefer controlled flat color blocks, thin outlines, simple icons, and clear visual grouping. Avoid heavy shadows, photo backgrounds, cluttered decoration, and generic stock-style visuals.
+- Use line pictograms with consistent stroke weight and visual family: documents, applications, ID cards, registration, books/study, examination, transcript, calendar, visa/travel, group/selection, arrows, check marks, and institutional logos where relevant.
+- Pictograms should carry meaning in the communication flow. Do not place icons only as decoration; each icon should mark a step, category, evidence type, action, or decision point.
+
+Layout and composition:
+
+- Use a strong title/header band that immediately states the process/topic, period, and organizational context.
+- Divide content into clear modules: dates, criteria, requirements, documents, language/scores, important notes, process steps, calendar/timeline, risks or exclusions.
+- In landscape layouts, use a dashboard grid with large information blocks on top and process cards or step flow along the bottom.
+- In vertical layouts, use a left-side process spine or stacked flow with large icons and arrows, paired with a right-side explanation/calendar/detail panel.
+- Use generous white space and consistent margins. Panels should breathe, but information density may be high when grouped cleanly.
+- Use thin rounded rectangles for content panels and cards. Keep border weight consistent and avoid thick boxes unless used as a deliberate emphasis block.
+- Use arrows and connector lines to show sequence. Process communication should make the reader understand "what happens first, next, then what decision/follow-up happens."
+
+Typography and emphasis:
+
+- Use clean sans-serif typography with clear hierarchy: large title, medium section headers, compact body text, and large numbers or percentages for key metrics.
+- Keep Thai and English text concise. Rewrite raw source into short labels, action phrases, and executive-readable bullets.
+- Use large numerals, percent signs, dates, and step numbers as visual anchors.
+- Highlight core thresholds, deadlines, eligibility criteria, final decisions, exclusions, and warnings using pink blocks, bold labels, or outlined callout boxes.
+- Make headings obvious at first glance. Each panel should have one clear subject; avoid mixing unrelated issues inside one block.
+
+Communication process:
+
+- Start from the reader's decision path: What is this about? Who is affected? What dates matter? What requirements or criteria apply? What documents/evidence are needed? What steps happen? What warnings or exceptions must be remembered?
+- Convert long explanations into structured visual logic: timeline, criteria matrix, requirement cards, document checklist, process flow, calendar module, or important-note panel.
+- Important notes should be visually distinct, often in a solid pink block or boxed callout, and should separate rules, cautions, limitations, and non-guarantees.
+- For any future summary with an infographic, first decide the communication architecture before drawing: grouping, order, emphasis, flow, and reader action.
+- This style is a benchmark, not a fixed template. Adapt orientation, number of panels, and flow shape to the data, while preserving the core art direction: magenta/white institutional tone, line pictograms, modular layout, clear hierarchy, and process-first communication.
 
 ## Reinforced Infographic Rules From 2026-06-18
 
