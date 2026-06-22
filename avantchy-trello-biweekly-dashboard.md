@@ -3,7 +3,7 @@ type: bot-memory
 memory_type: workflow-preference
 bot: Avantchybot
 created: 2026-06-09
-updated: 2026-06-13
+updated: 2026-06-22
 tags:
   - bot-memory
   - Avantchybot
@@ -86,3 +86,9 @@ For future biweekly reports:
   - งานค้าง = To Do / Pending / Doing cards not closed
   - ตกหล่น = active cards without owner or due date
 - Prefer visible infographic/image output for Telegram delivery.
+
+## User Feedback On Dashboard Value
+
+- On 2026-06-22, user said the GAA risk/follow-up infographic "ช่วยผมได้เยอะมากๆ" because it helped him see both the overall picture and detailed development issues for the division's work.
+- For future GAA/Trello summaries, preserve this dual-level reading: start with clear executive overview/KPIs, then drill down to exact work items, delayed or blocked causes, responsible/involved staff, evidence from comments, and concrete development/follow-up points for the division.
+- The goal is not only status reporting; the dashboard should help the director identify work-system improvement issues, coaching points, and operational follow-up priorities.
