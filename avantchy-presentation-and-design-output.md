@@ -87,6 +87,17 @@ Communication process:
 - For any future summary with an infographic, first decide the communication architecture before drawing: grouping, order, emphasis, flow, and reader action.
 - This style is a benchmark, not a fixed template. Adapt orientation, number of panels, and flow shape to the data, while preserving the core art direction: magenta/white institutional tone, line pictograms, modular layout, clear hierarchy, and process-first communication.
 
+Operational rule for future use:
+
+- Before producing any infographic summary for the user, default to this style family unless the user provides a different reference or the content clearly needs another visual language.
+- Use the reference as an implementation checklist, not only inspiration: composition, pictogram family, stroke weight, panel spacing, title hierarchy, text density, emphasis blocks, and flow arrows should all be intentionally matched.
+- Start every infographic by dividing the content into reader-facing issue blocks. Do not begin from the source document order if that order does not communicate well.
+- Prioritize readable Thai executive wording. Use short labels and key phrases, with English only where it is part of the institutional/process vocabulary.
+- Check that each panel has one job: date, criterion, requirement, document, process, note, decision, risk, or next action.
+- Use icons and pictograms as communication anchors for each issue block or step. Avoid mixing different icon styles in one artifact.
+- Maintain professional scale: large title/header, medium section titles, compact body text, oversized dates/numbers/percentages only for true key signals, and enough whitespace so dense information still feels designed.
+- Before final delivery, review whether the infographic would help the user explain the matter verbally within 1-3 minutes. If not, simplify grouping, strengthen headings, or improve the process flow.
+
 ## Reinforced Infographic Rules From 2026-06-18
 
 - For performance/evaluation infographics, especially individual staff evaluation and OIA/GAA performance dashboards, the 5-axis spider/radar chart is a core component, not an optional decoration, whenever the data supports evaluation dimensions.
