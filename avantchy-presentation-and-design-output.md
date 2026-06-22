@@ -3,7 +3,7 @@ type: bot-memory
 memory_type: detailed-topic
 bot: Avantchybot
 created: 2026-05-16
-updated: 2026-06-18
+updated: 2026-06-22
 tags:
   - bot-memory
   - Avantchybot
@@ -66,6 +66,7 @@ tags:
 - On 2026-06-18, after the GAA evidence/growth dashboard was revised to include Current Readiness, Target, Previous, Evidence Confidence, per-axis current/previous scores, compact bars, evidence basis, and coaching interpretation in the radar block, the user praised the result as "เยี่ยมยอด" and explicitly asked to remember it. Treat this latest GAA radar-panel format as the working baseline for future OIA/GAA evaluation infographics.
 - This OIA/GAA evaluation infographic approach is important and should be used for the next evaluation summaries. The layout may be adapted flexibly to the real data, data volume, audience, and message, but the core evaluation logic and readability requirements must remain: 5D radar, Current Readiness, Target, Previous when available, Evidence Confidence, per-axis scores/details, executive interpretation, and coaching-oriented notes.
 - Priority template: for GAA performance evaluation work, use this latest OIA/GAA evidence-and-growth dashboard approach as the first-choice template. Start from this structure before considering alternatives, then adapt the layout only as needed for the actual evidence, number of people, review purpose, and executive message.
+- On 2026-06-22, user praised the GAA Risk & Follow-up Dashboard as "เยี่ยมยอดมาก". Treat this risk/follow-up infographic format as a strong baseline for future Trello/GAA monthly or biweekly follow-up summaries when the user asks for unfinished, delayed, or blocked work. Core structure: clear KPI row; explicit definitions for unfinished/delayed/blocked; separate tables for delayed work, blocked work, and unfinished but on-track work; each row names the card, due/status, comment evidence or reason, and involved staff; include active-work categories, owner counts, executive reading, and next action cards. Use large Thai text, rose/pink OIA/GAA dashboard tone, official logo, concise executive wording, and deliver PNG plus PDF as native Telegram attachments.
 
 ## Image Persona
 
