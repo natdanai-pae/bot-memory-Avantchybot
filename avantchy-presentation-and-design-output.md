@@ -68,6 +68,37 @@ tags:
 - Priority template: for GAA performance evaluation work, use this latest OIA/GAA evidence-and-growth dashboard approach as the first-choice template. Start from this structure before considering alternatives, then adapt the layout only as needed for the actual evidence, number of people, review purpose, and executive message.
 - On 2026-06-22, user praised the GAA Risk & Follow-up Dashboard as "เยี่ยมยอดมาก". Treat this risk/follow-up infographic format as a strong baseline for future Trello/GAA monthly or biweekly follow-up summaries when the user asks for unfinished, delayed, or blocked work. Core structure: clear KPI row; explicit definitions for unfinished/delayed/blocked; separate tables for delayed work, blocked work, and unfinished but on-track work; each row names the card, due/status, comment evidence or reason, and involved staff; include active-work categories, owner counts, executive reading, and next action cards. Use large Thai text, rose/pink OIA/GAA dashboard tone, official logo, concise executive wording, and deliver PNG plus PDF as native Telegram attachments.
 
+## GAA Individual Evaluation Art Direction From 2026-06-22
+
+The user attached and asked to remember a preferred visual/reference direction for individual GAA evaluation summaries. Reference asset: `assets/2026-06-22-gaa-individual-evidence-growth-dashboard-art-direction.jpg`.
+
+Use this as a priority art-direction reference when designing "Individual Evidence & Growth Review Dashboard" or any individual staff assessment summary for GAA.
+
+Core visual style:
+
+- Wide landscape dashboard; modern, minimalist, executive-readable, and presentation-ready.
+- Dominant soft rose/pink header and accent system, with white content panels and restrained dark text. Avoid neon magenta, heavy gradients, and overly decorative color.
+- Modular layout with thin rounded rectangular borders, generous white space, calm grid alignment, and clear separation between analysis blocks.
+- Use a strong top title band. The title should make the artifact immediately identifiable as an individual evidence/growth review dashboard and include the review window.
+- Keep typography compact but readable. Use bold section headers, short Thai executive phrasing, and English labels where they serve dashboard conventions.
+- Use simple thin-line icons in bottom workflow cards. Icons should support scanning, not decorate heavily.
+
+Required content architecture:
+
+- Executive Snapshot: include person/context, role or work focus, evidence sources, key finding, readiness or growth track, number of evidence items, evidence confidence, and review period.
+- 5-Dimension Radar: keep the radar/spider chart central and visible. It should show the five standard dimensions and numeric values. Add side labels/bars or compact per-axis scoring so the reader can understand the chart without explanation.
+- Evidence Interpretation: classify strong evidence, weak/missing evidence, positive signals after feedback, and risk signals.
+- Executive Reading: separate Strength, Gap, Support, and Next Review so the director can explain the result verbally in a meeting.
+- Important Notes: include cautions that the dashboard is an evidence-based review aid, not a public ranking; Trello comments/director feedback must be read before concluding completion; AI/tool usage is excluded from scoring for now.
+- Bottom workflow: use a five-step flow such as Collect Evidence, Read Comments, Plot 5 Axes, Read Trend, Coach Next.
+
+Design intent:
+
+- The dashboard should help the director explain an individual's evidence, readiness, growth trend, risks, and next coaching action quickly.
+- Treat the radar and scores as coaching/evidence interpretation, not peer comparison or punitive ranking.
+- Balance information density with breathing room. The page should look refined and official, not like a raw report pasted into boxes.
+- This reference is a design-language and composition benchmark, not a rigid template. Adapt proportions to the actual staff evidence, but preserve the rose/pink tone, modular dashboard layout, 5D radar focus, executive-reading blocks, and bottom process flow.
+
 ## Image Persona
 
 - User requested photorealistic/reality-style images of “รู้ซิ”.
