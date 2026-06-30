@@ -3,7 +3,7 @@ type: bot-memory-map
 bot: Avantchybot
 bot_display_name: Avantchy
 created: 2026-05-16
-updated: 2026-06-22
+updated: 2026-06-30
 tags:
   - bot-memory
   - bot/Avantchybot
@@ -18,6 +18,7 @@ Durable memories for this bot live in this folder.
 - [[2026-05-16-bot-memory-folder-policy]]
 - [[2026-05-16-user-prefers-obsidian-as-bot-memory-source]]
 - [[2026-06-22-memory-capture-command]]
+- [[2026-06-30-gaa-continuous-improvement]]
 - [[2026-06-19-use-oia-gaa-shorthand]]
 - [[avantchy-comfyui-local-setup]]
 - [[avantchy-gateway-healthcheck]]
